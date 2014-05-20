@@ -1,6 +1,0 @@
-usr/lib/python*/*packages/itest/*.py
-usr/lib/python*/*packages/itest/conf/*.py
-usr/lib/python*/*packages/imgdiff/*.py
-usr/lib/python*/*packages/itest-*.egg-info
-usr/bin/runtest
-usr/bin/imgdiff
