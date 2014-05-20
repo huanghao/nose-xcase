@@ -1,8 +1,4 @@
-install
-=======
-install itest
--------------
-sudo python setup.py install
+[![Build Status](https://travis-ci.org/huanghao/nose-xcase.svg?branch=master)](https://travis-ci.org/huanghao/nose-xcase)
 
 =====
 
